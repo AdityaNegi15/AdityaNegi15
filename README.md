@@ -3,11 +3,11 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 - 💬 Ask me about **anything, I am happy to help**
 
-- 📫 How to reach me **imanisol19@gmail.com**
+- 📫 How to reach me **adityanegi281@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/animesh-solanki-383580242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="animesh-solanki-383580242" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-negi15-383580242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="animesh-solanki-383580242" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
