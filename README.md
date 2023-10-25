@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Animesh Solanki</h1>
+<h1 align="center">Hi 👋, I'm Aditya Pratap Singh Negi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 - 💬 Ask me about **anything, I am happy to help**
