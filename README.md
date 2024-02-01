@@ -12,6 +12,7 @@
 
 - Seeking opportunities to contribute to cutting-edge AI development and make a meaningful impact in the field.
 
+
 - 📫 How to reach me **imanisol19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
