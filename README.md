@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Animesh Solanki</h1>
 <h3 align="center">Artificial Intelligence/ Machine Learning</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
-- 💬 Ask me about **anything, I am happy to help**
-
+- Computer Science and Engineering senior with a passionate enthusiasm for pioneering Artificial Intelligence solutions. 
+- Actively pursuing opportunities to deepen my understanding of AI technologies and contribute to innovative projects. 
+- Committed to continuous learning, I strive to stay at the forefront of AI advancements. 
+- Eager to apply technical proficiency of data preprocessing and model training, in a dynamic professional environment that embraces AI innovation. 
+- Seeking opportunities to contribute to cutting-edge AI development and make a meaningful impact in the field.
 - 📫 How to reach me **imanisol19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
